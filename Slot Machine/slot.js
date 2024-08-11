@@ -18,7 +18,6 @@ const SYMBOL_VALUES = {
     "🪙 ": 2
 }
 
-
 const deposit = () => {
     while(true) {
         const amount = prompt("[+] ENTER THE DEPOSIT AMOUNT: ");
